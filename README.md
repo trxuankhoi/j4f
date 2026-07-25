@@ -1,2 +1,2 @@
 # j4f
-Just for fun! right?
+Just for fun.
